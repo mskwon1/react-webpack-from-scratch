@@ -1,0 +1,16 @@
+{
+  "name": "react-webpack-from-scratch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "mskwon1 <mageeeeek@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.90.1",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.0.0"
+  }
+}
