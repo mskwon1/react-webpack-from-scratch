@@ -4,6 +4,10 @@
   "main": "index.js",
   "author": "mskwon1 <mageeeeek@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "webpack serve",
+    "build": "webpack"
+  },
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
